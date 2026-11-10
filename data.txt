@@ -1,3 +1,5 @@
-Name: Michael
+Name: Michael James Van Camp
 Age: 41
+Location: Madrid, Spain
 Favorite Color: Blue
+Favorite Food: Mexican
